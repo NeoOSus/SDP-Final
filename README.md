@@ -101,6 +101,3 @@ The folders reflect the team's division of work. Classes in different folders co
 - Add input validation for customer and booking details.
 - Add a graphical interface and a payment integration.
 
-## Source control contributions
-
-Suggested commit attribution follows the team responsibilities above. Keep the README, source code, and screenshots consistent with the final version demonstrated by the team.
