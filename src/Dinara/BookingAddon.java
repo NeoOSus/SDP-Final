@@ -1,4 +1,8 @@
 package Dinara;
-
-public class BookingAddon {
+import java.math.BigDecimal;
+public interface BookingAddon {
+    BigDecimal getPrice();
+    String getDescription();
 }
+
+
